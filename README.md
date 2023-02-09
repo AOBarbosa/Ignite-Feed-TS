@@ -1,7 +1,7 @@
 # Desktop
 
 <h1 display = "flex" align-items = "center">
-    <img alt="Preview Desktop" title="Preview Desktop" src=".images/previewDesktop.jpg" />
+    <img alt="Preview Desktop" title="Preview Desktop" src=".github/previewDesktop.jpg" />
 </h1>
 
 <br>

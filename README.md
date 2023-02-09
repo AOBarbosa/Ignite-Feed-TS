@@ -1,3 +1,11 @@
+# Desktop
+
+<h1 display = "flex" align-items = "center">
+    <img alt="Preview Desktop" title="Preview Desktop" src=".images/previewDesktop.jpg" />
+</h1>
+
+<br>
+
 ## 🧪 Technologies
 
 This project was developed using the following technologies:
